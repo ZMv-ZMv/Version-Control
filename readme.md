@@ -49,3 +49,5 @@ Lo ideal es que al principio del curso se ponga todas las carpetas y archivos de
 e05051d 001. Our First GitHub Repository
         Chapter 5  Synchronizing Remote and Local Repositories\
 84320f6 001. Connect Remote and Local Repos
+        Chapter 6  Mastering Branches and Merges
+        001. Branch in a Repository
