@@ -1,4 +1,6 @@
-30 07 2024 - Primer commit
+30 07 2024 - INICIO DEL CURSO
+
+Aqui se registrará las características del curso para diferenciarlo de otros, así como el avance que se hace del mismo.
 
 Curso: 
 Version Control
@@ -8,11 +10,13 @@ DEVPRO.TV
 
 Profesor:
 
-
 GitHub reposotorio:
 https://github.com/ZMv-ZMv/Version-Control.git
 
-Capítulos:
+Carpeta principal:
+Version Control\
+
+Carpetas (capítulos):
 Chapter 1  Introduction to Version Control
 Chapter 2  Setting Up Git
 Chapter 3  Creating and Managing Git Repositories
@@ -32,7 +36,16 @@ Contenido:
 13 carpetas
 
 *******************************************************************************
+********************************************************* HISTORIAL DE COMMMITS
+
+Para el seguimiento y avance del curso, aquí se va registrando los commits más importantes de acuerdo a las lecciones, por ejemplo el inicio de cada clase (video), un tema importante que resaltar, etc. Los videos o capítulos que no merezcan un commit o que teniendo commits no sean de trascendencia para el curso, no deberían registrarse.
+Lo ideal es que al principio del curso se ponga todas las carpetas y archivos de video, luego con el seguimiento del curso, se va actualizando los commits para cada video si es necesario.
+
 568e10b    *** Primer commit ***
-6af1783 Chapter 3 - 001. Our First Repository
-e05051d Chapter 4 - 001. Our First GitHub Repository
-84320f6 Chapter 5 - 001. Connect Remote and Local Repos
+
+        Chapter 3  Creating and Managing Git Repositories\
+6af1783 001. Our First Repository
+        Chapter 4  Working with GitHub\
+e05051d 001. Our First GitHub Repository
+        Chapter 5  Synchronizing Remote and Local Repositories\
+84320f6 001. Connect Remote and Local Repos
