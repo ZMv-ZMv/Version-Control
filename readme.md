@@ -3,6 +3,15 @@
 Curso: 
 Version Control
 
+Autor:
+ITPRO.TV
+
+Profesor:
+
+
+GitHub reposotorio:
+https://github.com/ZMv-ZMv/Version-Control.git
+
 Capítulos:
 Chapter 1  Introduction to Version Control
 Chapter 2  Setting Up Git
