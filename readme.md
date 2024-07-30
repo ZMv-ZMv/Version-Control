@@ -4,7 +4,7 @@ Curso:
 Version Control
 
 Autor:
-ITPRO.TV
+DEVPRO.TV
 
 Profesor:
 
