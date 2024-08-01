@@ -10,8 +10,9 @@ DEVPRO.TV
 
 Profesor:
 
-GitHub reposotorio:
+GitHub reposotorios:
 https://github.com/ZMv-ZMv/Version-Control.git
+https://github.com/ZMv-ZMv/working-with-branches.git
 
 Carpeta principal:
 Version Control\
@@ -50,4 +51,4 @@ e05051d 001. Our First GitHub Repository
         Chapter 5  Synchronizing Remote and Local Repositories\
 84320f6 001. Connect Remote and Local Repos
         Chapter 6  Mastering Branches and Merges
-        001. Branch in a Repository
+0f9af76 001. Branch in a Repository
